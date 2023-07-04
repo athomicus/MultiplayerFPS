@@ -7,7 +7,11 @@ $ git remote -v
 
 <REMOTE_URL> - z zalozonego repo w github.com  
 
+$ git pull origin main
 
+$git add .
+$git commit -m "info"
+$git push origin main
 
 git clone <repo adress from github>
 
